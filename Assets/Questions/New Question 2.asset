@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4afb41cdbf64fa44b0e392fe15f6464, type: 3}
+  m_Name: New Question 2
+  m_EditorClassIdentifier: 
+  question: What is the role of the Unity Asset Store in game development, and how
+    does it benefit developers?
+  answers:
+  - The Unity Asset Store is where developers buy physical hardware for game testing.
+  - The Unity Asset Store provides free Unity software licenses for indie developers.
+  - 'The Unity Asset Store offers a marketplace for assets, scripts, and tools that
+    can be used in Unity projects, saving developers time and effort. '
+  - The Unity Asset Store offers in-game purchases for players.
+  correctAnswerIndex: 2
